@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e21f73b1cb561347abd582ec8ae471c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FoldoutPrefs:
+  - m_ClassName: TilePlusCollidableBase
+    m_FoldoutOpen: 1
+  - m_ClassName: TilePlusBase
+    m_FoldoutOpen: 1
+  m_ClassHeaders: 1
+  m_NoOverwriteFromPalette: 1
+  m_ShowBrushPosition: 1
+  m_BrushPositionTextColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BrushPositionFontSize: 14
+  m_FocusSize: 7.5
+  m_HideHints: 0
+  m_GizmoColor: {r: 1, g: 1, b: 1, a: 1}
+  m_SlidersOk: 1
+  m_AutoSave: 1
+  m_SelInspectorButtonSize: 15
+  m_BrushInspectorButtonSize: 15
+  m_TileHighlightTime: 1
+  m_ConfirmDeleteTile: 1
+  m_AllowBackspaceDelInSelectionInspector: 0
+  m_ShowSelectionInspectorTileInfo: 1
+  m_OpenSelectionInspectorDefault: 0
+  m_ShowDefaultSelInspector: 0
+  m_SafePlayMode: 0
+  m_InformationalMessages: 0
+  m_WarningMessages: 0
+  m_ErrorMessages: 1
+  m_NameSpaces: TilePlusDemo
+  m_AllowPrefabEditing: 0
